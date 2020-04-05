@@ -1,0 +1,27 @@
+{
+  "address": "3201, Russel Street",
+  "departments": [
+    {
+      "employees": [
+        {
+          "age": 32,
+          "id": 1111,
+          "name": "Jack Ryan",
+          "position": "Sales Executive"
+        }
+      ],
+      "id": 111,
+      "name": "Marketing"
+    }
+  ],
+  "employees": [
+    {
+      "age": 32,
+      "id": 1111,
+      "name": "Jack Ryan",
+      "position": "Sales Executive"
+    }
+  ],
+  "id": 11,
+  "name": "ABC Corp."
+}
